@@ -3,3 +3,9 @@ sqlalchemy
 pymysql
 python-dotenv
 psycopg2
+streamlit
+sqlalchemy
+psycopg2-binary
+langchain
+langchain-groq
+pandas
