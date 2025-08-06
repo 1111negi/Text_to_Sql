@@ -2,3 +2,4 @@ streamlit
 sqlalchemy
 pymysql
 python-dotenv
+psycopg2
