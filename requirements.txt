@@ -2,7 +2,7 @@ streamlit
 sqlalchemy
 pymysql
 python-dotenv
-psycopg2
+#psycopg2
 streamlit
 sqlalchemy
 psycopg2-binary
